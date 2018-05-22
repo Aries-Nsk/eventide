@@ -1,0 +1,35 @@
+body{
+    background: #fff;
+    font-family: Ubuntu, sans-serif;
+    font-size: 16px;
+    color: #828282;
+    font-weight: 400;
+    min-width: 320px;
+}
+
+a{
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    color: #2cc7c1;
+}
+
+a:hover{
+    color: #2cc7c1;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+section{
+    position: relative;
+}
+
+h2{
+    font-family: Montserrat, sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+    text-transform: uppercase;
+}
