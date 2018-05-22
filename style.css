@@ -33,3 +33,10 @@ h2{
     margin-top: 0;
     text-transform: uppercase;
 }
+
+/*=================header===============*/
+#header{
+    background: url("img/2.jpg") center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
